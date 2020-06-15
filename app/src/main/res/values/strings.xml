@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bookmarker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bookmarker</string>
+    <string name="nav_header_subtitle">karlov.yevhenii@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Головна</string>
+    <string name="form_title">Внесіть дані про закладку</string>
+    <string name="title_edit_hint">Назва</string>
+    <string name="url_edit_hint">Адреса посилання</string>
+    <string name="form_button_add_text">Зберегти</string>
+    <string name="url_default">[Введіть адресу посилання]</string>
+    <string name="title_default">[Введіть назву]</string>
+    <string name="option_delete_all">Видалити всі закладки</string>
+    <string name="message_cleared">Всі закладки видалено назавжди</string>
+    <string name="chooser_title">Оберіть переглядач для даного ресурсу</string>
+    <string name="home_fragment_label">Bookmarker</string>
+    <string name="form_fragment_label">Форма</string>
+    <string name="rules_fragment_label">Користування</string>
+    <string name="about_fragment_label">Про додаток</string>
+    <string name="description_edit_button">Edit bookmark</string>
+    <string name="form_button_edit_text">Оновити</string>
+    <string name="form_button_delete_text">Видалити</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_logo">Логотип додатку</string>
+    <string name="text_rules">
+        Для додання закладки натисніть плаваючу кнопку в правому нижньому куті (+) та внесіть в форму інформацію про ресурс. \nТакож можна додати закладку веб-ресурсу з будь-якого додатку натиснувши "поділитись" та обравши в переліку Bookmarker \nДля редагування або видалення закладки скористайтеся кнопкою "редагувати", що присутня на кожній закладці \nВи можете видалити всі закладки натиснувши на "корзину" в верхньому правому куті
+    </string>
+    <string name="menu_rules">Користування</string>
+    <string name="text_about">
+        Додаток для закладок розробив в рамках дипломної роботи студент ІПС-41 Карлов Євгеній\nПовний код додатку доступний за посиланням\ngithub.com/as-i-see/bookmarker
+    </string>
+    <string name="text_year">2020</string>
+</resources>
